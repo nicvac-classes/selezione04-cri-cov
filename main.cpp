@@ -28,5 +28,5 @@ int main() {
       max = c;
     }
   }
-  cout << " il numero maggiore fra i tre numeri è " << max << endl;
+  cout << " il numero maggiore fra i tre numeri è " << max << endl ;
 }
